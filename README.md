@@ -21,7 +21,7 @@ Ce projet implémente un programme permettant de gérer et simuler des files d'a
 ### Compilation
 Placez tous les fichiers sources dans un même dossier et utilisez la commande :
 ```sh
-gcc -o main.exe main.c TP_header.h 
+gcc -o gestion_files main.c TP_header.h 
 ```
 
 ### Exécution
